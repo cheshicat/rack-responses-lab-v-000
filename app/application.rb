@@ -1,4 +1,4 @@
 class Application
-  def call
+  def call0(env)
   end
 end
