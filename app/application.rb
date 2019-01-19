@@ -6,6 +6,7 @@ class Application
     if now.hour >=12
     else
     end
+    resp.finish
   end
 
 end
